@@ -1,2 +1,6 @@
 Link para o download do Git: https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Mudar a configuração da conta email e user name do seu Git:
+git config --global --unset user.email 
+git config --global --unset user.name 
